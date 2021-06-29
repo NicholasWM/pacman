@@ -1,5 +1,5 @@
 # PACMAN
-![Alt ou título da imagem](./project.png)
+![Alt ou título da imagem](./project.PNG)
 
 ## Assuntos:
 
