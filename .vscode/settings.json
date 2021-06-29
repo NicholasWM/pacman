@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "fogefoge.h": "c",
+    "ui.h": "c",
+    "mapa.h": "c"
+  }
+}
